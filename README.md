@@ -1,12 +1,5 @@
 ## Hello!, I'm Balaji
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NS145/NS145/output/github-stats-crt.png" width="100%" alt="Pixel GitHub Card">
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Backend+Developer;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;Aspiring+Software+Engineer)](https://git.io/typing-svg)
-
-### 💻 Computer Science Student | Java Backend Developer | Aspiring Software Engineer
 
 Passionate about building scalable backend applications, solving Data Structures & Algorithms problems, and continuously learning modern software engineering practices.
 
@@ -16,7 +9,7 @@ Passionate about building scalable backend applications, solving Data Structures
 
 💻 Interested in **Java Development, Backend Engineering, and System Design**
 
-🌱 Currently learning **Spring Boot, Microservices, Design Patterns, and System Design**
+🌱 Currently learning **Design Patterns, and System Design**
 
 🧩 Regularly solving **Data Structures & Algorithms** on LeetCode
 
@@ -41,7 +34,6 @@ Passionate about building scalable backend applications, solving Data Structures
 
 # 🚀 Currently Working On
 - 🌳 Mastering Trees, Graphs and Dynamic Programming
-- ⚡ Building Backend Applications using Spring Boot
 - 🏗️ Learning System Design & Design Patterns
 - 📦 Developing scalable Java Projects
 - 💼 Preparing for Software Development Engineer (SDE) roles
