@@ -7,13 +7,13 @@ Passionate about building scalable backend applications, solving Data Structures
 
 🎓 Computer Science Student
 
-💻 Interested in **Java Development, Backend Engineering, and System Design**
+💻 Interested in **Backend Engineering, and System Design**
 
 🌱 Currently learning **Design Patterns, and System Design**
 
 🧩 Regularly solving **Data Structures & Algorithms** on LeetCode
 
-🚀 Building real-world backend projects using Java and Spring Boot
+🚀 Building real-world backend projects
 
 📚 Exploring scalable application development, clean architecture, and REST APIs
 
@@ -29,15 +29,6 @@ Passionate about building scalable backend applications, solving Data Structures
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
 -->
-
----
-
-# 🚀 Currently Working On
-- 🌳 Mastering Trees, Graphs and Dynamic Programming
-- 🏗️ Learning System Design & Design Patterns
-- 📦 Developing scalable Java Projects
-- 💼 Preparing for Software Development Engineer (SDE) roles
-
 ---
 
 # 💻 Tech Stack
@@ -79,18 +70,6 @@ Passionate about building scalable backend applications, solving Data Structures
 
 ---
 
-# ⭐ Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 Job Queue System | Distributed Job Queue with Retry, Workers & REST APIs |
-| 📦 DSA Lab Exercises | Java implementations of Data Structures & Algorithms |
-| 🎨 Design Patterns Lab | Java implementation of 11 GoF Design Patterns |
-| 💡 LeetCode Solutions | Well-documented solutions categorized by topic |
-| 🌐 Portfolio Website | Personal portfolio showcasing projects and skills |
-
----
-
 # 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/NS145/NS145/output/github-contribution-grid-snake-dark.svg)
@@ -101,8 +80,3 @@ Passionate about building scalable backend applications, solving Data Structures
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/N_S_Balaji/)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NS145)
 
----
-
-### 💡 Quote
-
-> *"Code. Learn. Build. Repeat."*
