@@ -58,12 +58,6 @@ Passionate about building scalable backend applications, solving Data Structures
 
 ---
 
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NS145&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 # 🧩 LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/N_S_Balaji?theme=nord&font=Nunito&ext=heatmap)](https://leetcode.com/u/N_S_Balaji/)
